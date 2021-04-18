@@ -1,5 +1,7 @@
 # Technical Specification
 
+Project version alpha.1
+
 | Engine | Unreal |
 |--|--|
 | Version | 4.25.4 |
